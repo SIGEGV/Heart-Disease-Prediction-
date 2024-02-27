@@ -21,8 +21,5 @@ Impact:
 
 This project has the potential to contribute to early detection and prevention of heart disease, a leading cause of death worldwide.
 The web application can empower individuals to take proactive steps towards maintaining cardiovascular health.
-Additional Information:
 
-For further details, you can link to your project website or GitHub repository (if applicable).
-Tailor the information to highlight specific skills and achievements relevant to your job application.
 
