@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction-Model
 
 
-Machine Learning Project: Heart Disease Prediction (for Resume)
+Machine Learning Project: Heart Disease Prediction.
 Project Goal:
 Developed a machine learning model to predict the risk of heart disease in individuals based on their medical data and lifestyle factors.
 
